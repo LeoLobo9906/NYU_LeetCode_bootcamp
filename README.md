@@ -1,6 +1,6 @@
 # NYU Tandon Spring 2025 LeetCode Bootcamp 🧠💻
 
-Welcome to my personal repository for the [NYU Tandon Spring 2025 LeetCode Bootcamp]([https://www.nyu.edu](https://engineering.nyu.edu/life-tandon/tandon-career-hub/resources-students/leetcode-bootcamp)) — a 9-week program designed to sharpen algorithmic thinking and prepare for technical interviews. This repository contains my weekly take-home assignments, notes, and project work.
+Welcome to my personal repository for the [NYU Tandon Spring 2025 LeetCode Bootcamp](https://engineering.nyu.edu/life-tandon/tandon-career-hub/resources-students/leetcode-bootcamp) — a 9-week program designed to sharpen algorithmic thinking and prepare for technical interviews. This repository contains my weekly take-home assignments, notes, and project work.
 
 ## 🗓️ Weekly Topics
 
